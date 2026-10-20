@@ -1,0 +1,215 @@
+{
+ "tag": "v1",
+ "files": [
+  {
+   "name": "graveyard_eject.hwp",
+   "size": 2808646,
+   "sha256": "67083543a98dfa022fcb9c1e4faa0e652d3088bd48a61f7e3009e57a7152dbe6",
+   "files": 28
+  },
+  {
+   "name": "graveyard_map.hwp",
+   "size": 20038642,
+   "sha256": "9fb8907cc47342ccb5a5c7a2838acad791fbb4a89908b626577b7fd90eb14365",
+   "files": 118
+  },
+  {
+   "name": "hats_hk_freddy.hwp",
+   "size": 1947678,
+   "sha256": "a653883dd306840766a4ac8c1ebb2f08132f96e8333bb0d2db090387bf3ff743",
+   "files": 230
+  },
+  {
+   "name": "hats_hk_ghostface.hwp",
+   "size": 1954779,
+   "sha256": "3173148310db2ba5e51da52221dff577f0a1eabadfe37f0225e3079d64531756",
+   "files": 330
+  },
+  {
+   "name": "hats_hk_jason.hwp",
+   "size": 1500229,
+   "sha256": "ced62ff482c52638718a6166aa6f657a35828df3c24eb225360a775bdb29d1c6",
+   "files": 230
+  },
+  {
+   "name": "hats_hk_jasonlift.hwp",
+   "size": 1789389,
+   "sha256": "ef999e998655d1a68e8a2ff80672a8ff4ca549dd597e70bad660fd8e251619db",
+   "files": 300
+  },
+  {
+   "name": "hats_hk_medusa.hwp",
+   "size": 2175189,
+   "sha256": "4bf62c0533889b89c181ee834d2d122269d2f1eedcf4b1de3f646537568c5f3b",
+   "files": 280
+  },
+  {
+   "name": "hats_hk_predator.hwp",
+   "size": 2306256,
+   "sha256": "07df3a3b2c1e9c96367b732dedad42419c76a865357c6747d202a08b6f27ff92",
+   "files": 310
+  },
+  {
+   "name": "hats_hk_pumpkin.hwp",
+   "size": 1772264,
+   "sha256": "1927a7c5e11fb874dfb7541df07ff960af4d29ced1397605128e10a904bc7c68",
+   "files": 280
+  },
+  {
+   "name": "hats_hk_reaper.hwp",
+   "size": 2215657,
+   "sha256": "1b8ef9d6ddbec257f283250ea99425a6f394cabaf21ee95514ba02051d0ccb36",
+   "files": 290
+  },
+  {
+   "name": "hats_hk_sadako.hwp",
+   "size": 2163033,
+   "sha256": "8cdb6a2b96a0ffddcbd37534aeca6b7704edef864995789560daa87dac3fcf76",
+   "files": 310
+  },
+  {
+   "name": "hats_hk_spider.hwp",
+   "size": 3440772,
+   "sha256": "9732d475e2fcb8d9027cdd201c3bb65862817026bd35eb67012f401f66a7b2fd",
+   "files": 704
+  },
+  {
+   "name": "hats_hk_thing.hwp",
+   "size": 3024254,
+   "sha256": "54dc80b972ce46acf44354743c9875f3f17f40a86c696236891bbbb59513a908",
+   "files": 300
+  },
+  {
+   "name": "hats_hk_vampire.hwp",
+   "size": 1974351,
+   "sha256": "29c7a281c3cabd4c9a1548efdde305fcba5b86f373175a4049635b1ed34db0cb",
+   "files": 280
+  },
+  {
+   "name": "hats_hk_xeno.hwp",
+   "size": 1933956,
+   "sha256": "3131a64e445a8944b1e74fcc6c13df7f74eeb8fb47e3c730f775660764d9c3a0",
+   "files": 230
+  },
+  {
+   "name": "hats_hk_xenobite.hwp",
+   "size": 1714325,
+   "sha256": "50e18081d1b1bdf4f1702bde7cad031a9c6c3b975090a61bbc6e5b71a3af3d88",
+   "files": 230
+  },
+  {
+   "name": "hats_hl_spider.hwp",
+   "size": 256128,
+   "sha256": "c2e4b975e8327a9d8d647652d232c8acac1eeaa04a013dff5a5075eeaa782aad",
+   "files": 68
+  },
+  {
+   "name": "hats_hw_angel.hwp",
+   "size": 2512985,
+   "sha256": "968563ad6ecd22ab83c713f4a99add7bdc6e7ca89e9a4a49478cff67f856209a",
+   "files": 58
+  },
+  {
+   "name": "hats_hw_bvb.hwp",
+   "size": 1193543,
+   "sha256": "9bb75fd36c58fb4ffc0dee4b2b0ca7011f035da78fdaaf265b2c1182b270e1f0",
+   "files": 58
+  },
+  {
+   "name": "hats_hw_corpse.hwp",
+   "size": 116339,
+   "sha256": "8b30994566ef86bf40aa2fee4e56f81b86e6ba08d89b4014ddc2413358cb1419",
+   "files": 13
+  },
+  {
+   "name": "hats_hw_freddy.hwp",
+   "size": 1640035,
+   "sha256": "cc8845539d7bd02975b263c3143038f50c3f2eeb50ebdf61bd066f4370c110f1",
+   "files": 30
+  },
+  {
+   "name": "hats_hw_ghostface.hwp",
+   "size": 1778288,
+   "sha256": "a6ba7151e7f8d24dcff07ab8bacbd9d39ed60c6b505cd744c86147776b378cb0",
+   "files": 58
+  },
+  {
+   "name": "hats_hw_jason.hwp",
+   "size": 1224310,
+   "sha256": "a75d71b0541ec1ead0aec5fe1a16fa6bd5f083c92d21e24da2ed245fc430be3e",
+   "files": 30
+  },
+  {
+   "name": "hats_hw_medusa.hwp",
+   "size": 1202558,
+   "sha256": "afa8eada6ffe0f084ff8a1563b45aa425e0e05267830b53dfd060ae8bdae85bb",
+   "files": 58
+  },
+  {
+   "name": "hats_hw_predator.hwp",
+   "size": 2354688,
+   "sha256": "d153a4d8cb5ed36f4357eb2155daf684f9d555b6ed1d0fab5e0511ff9a5b212a",
+   "files": 58
+  },
+  {
+   "name": "hats_hw_pumpkin.hwp",
+   "size": 1333712,
+   "sha256": "48e7445f0f9bb8640e112cea252200d34ce61ae696df2ae24bbb53c55d73902e",
+   "files": 58
+  },
+  {
+   "name": "hats_hw_reaper.hwp",
+   "size": 1948243,
+   "sha256": "f3d0128dec6b15a98f90e1668695324f42755b1e14a77644eca6d04ba5a32541",
+   "files": 58
+  },
+  {
+   "name": "hats_hw_sadako.hwp",
+   "size": 2054165,
+   "sha256": "c87776c4c7ff59bb43629cecf3ee45f4e4eda9552822d0d621459e7785705e47",
+   "files": 58
+  },
+  {
+   "name": "hats_hw_spider.hwp",
+   "size": 4047640,
+   "sha256": "bb843778ec9e0a0ba70568ecb8a43b92b871b42bcd3a5af701993a959511a2c9",
+   "files": 114
+  },
+  {
+   "name": "hats_hw_thing.hwp",
+   "size": 1700447,
+   "sha256": "0a9eaf223da516c0444d1453f2d3057a6d025202c80185b111d5b39aa0677f25",
+   "files": 58
+  },
+  {
+   "name": "hats_hw_vampire.hwp",
+   "size": 1287087,
+   "sha256": "a0b43ae92cf854e035fc8e6d51f48eeccc33c48826d552b07e886bca55d50148",
+   "files": 58
+  },
+  {
+   "name": "hats_hw_xenomorph.hwp",
+   "size": 2332926,
+   "sha256": "4dda2a0e893282a9a9089a026cd1b817c6901e0a1356aea8dd99438a90ca5417",
+   "files": 58
+  },
+  {
+   "name": "villa_eject.hwp",
+   "size": 2301157,
+   "sha256": "a40bd92279a4dd27e16a2b0db68683a1d135f227a6d0c0caacbceae2c1d60fa6",
+   "files": 41
+  },
+  {
+   "name": "villa_intro.hwp",
+   "size": 6159741,
+   "sha256": "10621e943cafbbb9c1aa08434fd03eabf8e21d19eba0c8521362e280284082dc",
+   "files": 84
+  },
+  {
+   "name": "villa_map.hwp",
+   "size": 7706068,
+   "sha256": "38302c95cdfeff543fc5efe5dc88dc8053e5373e7018be30077a0599bf2ddcc1",
+   "files": 108
+  }
+ ]
+}
