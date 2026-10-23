@@ -1,6 +1,12 @@
 {
- "tag": "v1",
+ "tag": "v2",
  "files": [
+  {
+   "name": "candy_eject.hwp",
+   "size": 1180748,
+   "sha256": "d97adeddbd053621bd4d69a650034663ae0c381c1042cf6d58903c0be98745f5",
+   "files": 19
+  },
   {
    "name": "graveyard_eject.hwp",
    "size": 2808646,
