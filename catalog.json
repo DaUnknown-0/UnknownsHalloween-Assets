@@ -1,5 +1,5 @@
 {
- "tag": "v3",
+ "tag": "v4",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -21,9 +21,15 @@
   },
   {
    "name": "graveyard_map.hwp",
-   "size": 20038642,
-   "sha256": "9fb8907cc47342ccb5a5c7a2838acad791fbb4a89908b626577b7fd90eb14365",
+   "size": 20129765,
+   "sha256": "5408a2dfe8c6b00d3867f7d3df0d02a1cfdc1ac14634be65e05593907585a83c",
    "files": 118
+  },
+  {
+   "name": "hats_hk_demon.hwp",
+   "size": 1845144,
+   "sha256": "cc499e5f43afa1d73a08fac8775fa2058c0bd828c1f672988bc6c9021e893126",
+   "files": 240
   },
   {
    "name": "hats_hk_freddy.hwp",
@@ -213,8 +219,8 @@
   },
   {
    "name": "villa_map.hwp",
-   "size": 7706068,
-   "sha256": "38302c95cdfeff543fc5efe5dc88dc8053e5373e7018be30077a0599bf2ddcc1",
+   "size": 19785165,
+   "sha256": "1b37af5631663c0c91d7fcf2941ff9dc029b7f2ea436f7fcce874715c3878599",
    "files": 108
   }
  ]
