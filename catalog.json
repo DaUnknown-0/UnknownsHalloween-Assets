@@ -1,5 +1,5 @@
 {
- "tag": "v5",
+ "tag": "v6",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -21,8 +21,8 @@
   },
   {
    "name": "graveyard_map.hwp",
-   "size": 20129765,
-   "sha256": "5408a2dfe8c6b00d3867f7d3df0d02a1cfdc1ac14634be65e05593907585a83c",
+   "size": 20140814,
+   "sha256": "f523c6e39f8f68ba6bdf829ffa0ae8d570fd9f2b49e3e00e5d22c62055a5301d",
    "files": 118
   },
   {
@@ -219,8 +219,8 @@
   },
   {
    "name": "villa_map.hwp",
-   "size": 19797376,
-   "sha256": "f462cb13eef82bc6fefd8d0fc6838717fbed3e8f7c47718249dede73d9d9cfa3",
+   "size": 19918493,
+   "sha256": "f5aa84c0f0db3efce6744c5b2047d7a0a4e92019f80f2e4600e723a7100b0555",
    "files": 108
   }
  ]
