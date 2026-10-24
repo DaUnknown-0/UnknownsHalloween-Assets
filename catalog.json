@@ -1,11 +1,17 @@
 {
- "tag": "v2",
+ "tag": "v3",
  "files": [
   {
    "name": "candy_eject.hwp",
    "size": 1180748,
    "sha256": "d97adeddbd053621bd4d69a650034663ae0c381c1042cf6d58903c0be98745f5",
    "files": 19
+  },
+  {
+   "name": "cine_villa.hwp",
+   "size": 92829371,
+   "sha256": "078684d7b5f815a98db83e25fa69ac1a224d97f626355f08718613f8b7977931",
+   "files": 1412
   },
   {
    "name": "graveyard_eject.hwp",
@@ -204,12 +210,6 @@
    "size": 2301157,
    "sha256": "a40bd92279a4dd27e16a2b0db68683a1d135f227a6d0c0caacbceae2c1d60fa6",
    "files": 41
-  },
-  {
-   "name": "villa_intro.hwp",
-   "size": 6159741,
-   "sha256": "10621e943cafbbb9c1aa08434fd03eabf8e21d19eba0c8521362e280284082dc",
-   "files": 84
   },
   {
    "name": "villa_map.hwp",
