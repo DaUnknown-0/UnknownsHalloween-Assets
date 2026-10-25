@@ -1,5 +1,5 @@
 {
- "tag": "v13",
+ "tag": "v14",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -165,8 +165,8 @@
   },
   {
    "name": "hats_hw_medusa.hwp",
-   "size": 1202558,
-   "sha256": "afa8eada6ffe0f084ff8a1563b45aa425e0e05267830b53dfd060ae8bdae85bb",
+   "size": 2660074,
+   "sha256": "4bf6075e23b2726375f84bedf35e14ba7a09b408e2b85c5731972d349797ac64",
    "files": 58
   },
   {
