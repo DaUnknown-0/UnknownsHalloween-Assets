@@ -1,5 +1,5 @@
 {
- "tag": "v12",
+ "tag": "v13",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -212,6 +212,12 @@
    "files": 58
   },
   {
+   "name": "hats_hw_weepingangel.hwp",
+   "size": 1937352,
+   "sha256": "f0edd55e1d757cc80799856edfb8ce4234d4a1d10bd8de029b3f4b2662297667",
+   "files": 58
+  },
+  {
    "name": "hats_hw_xenomorph.hwp",
    "size": 2332926,
    "sha256": "4dda2a0e893282a9a9089a026cd1b817c6901e0a1356aea8dd99438a90ca5417",
@@ -225,8 +231,8 @@
   },
   {
    "name": "villa_map.hwp",
-   "size": 22135457,
-   "sha256": "91f3517cc6a68a4a0335d95ed6ca974195714a850ff2fed9b4d875f7581e21d0",
+   "size": 22153900,
+   "sha256": "22af66f97d75d5c22cca01ebd7ce34d8486be8449f4cbf442fabaa48d355d786",
    "files": 110
   }
  ]
