@@ -1,5 +1,5 @@
 {
- "tag": "v7",
+ "tag": "v8",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -24,6 +24,12 @@
    "size": 20140814,
    "sha256": "f523c6e39f8f68ba6bdf829ffa0ae8d570fd9f2b49e3e00e5d22c62055a5301d",
    "files": 118
+  },
+  {
+   "name": "hats_hk_angel.hwp",
+   "size": 17866632,
+   "sha256": "5516ddc9363c6bebaae86004aa08e99c94ae8962b06c13ef22718cf63cecbce2",
+   "files": 960
   },
   {
    "name": "hats_hk_demon.hwp",
@@ -219,9 +225,9 @@
   },
   {
    "name": "villa_map.hwp",
-   "size": 19943250,
-   "sha256": "e05f6355058784c4b978e159b0489fbeaac2c2ac1a18abbf6a85dd08eed66f50",
-   "files": 108
+   "size": 20806986,
+   "sha256": "3dfc8d992f741f13099ede7fae6da207bf9e6f2d947536fbe6bd6969cc42e6ad",
+   "files": 110
   }
  ]
 }
