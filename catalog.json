@@ -1,5 +1,5 @@
 {
- "tag": "v15",
+ "tag": "v16",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -21,15 +21,15 @@
   },
   {
    "name": "graveyard_map.hwp",
-   "size": 20140814,
-   "sha256": "f523c6e39f8f68ba6bdf829ffa0ae8d570fd9f2b49e3e00e5d22c62055a5301d",
+   "size": 20420403,
+   "sha256": "70276efc767a9423d7182f0a2247477616f7fbc623c5f6c962a16a7921390021",
    "files": 118
   },
   {
    "name": "hats_hk_angel.hwp",
-   "size": 17866632,
-   "sha256": "5516ddc9363c6bebaae86004aa08e99c94ae8962b06c13ef22718cf63cecbce2",
-   "files": 960
+   "size": 13654903,
+   "sha256": "d386acfe561f8b83d156ca0c8f79343ba4b17c028f75b5c5ff77bccf4a8e961c",
+   "files": 900
   },
   {
    "name": "hats_hk_demon.hwp",
@@ -39,21 +39,21 @@
   },
   {
    "name": "hats_hk_freddy.hwp",
-   "size": 1947678,
-   "sha256": "a653883dd306840766a4ac8c1ebb2f08132f96e8333bb0d2db090387bf3ff743",
-   "files": 230
+   "size": 3693415,
+   "sha256": "92322642f9dc7a85aa28679c4e215c01ce5800cbf1d2ca34967df95484aa97be",
+   "files": 225
   },
   {
    "name": "hats_hk_ghostface.hwp",
-   "size": 1954779,
-   "sha256": "3173148310db2ba5e51da52221dff577f0a1eabadfe37f0225e3079d64531756",
-   "files": 330
+   "size": 2897483,
+   "sha256": "83f43eb7d8f39961653ab2bdb01db31d0fa315ff98304168dffd8e377c9f6342",
+   "files": 225
   },
   {
    "name": "hats_hk_jason.hwp",
-   "size": 1500229,
-   "sha256": "ced62ff482c52638718a6166aa6f657a35828df3c24eb225360a775bdb29d1c6",
-   "files": 230
+   "size": 3149033,
+   "sha256": "5cc1fde155d6a0b47fdfda51ae1dcb58e24523078956d71930ef495ab8b8f057",
+   "files": 225
   },
   {
    "name": "hats_hk_jasonlift.hwp",
@@ -63,57 +63,57 @@
   },
   {
    "name": "hats_hk_medusa.hwp",
-   "size": 2175189,
-   "sha256": "4bf62c0533889b89c181ee834d2d122269d2f1eedcf4b1de3f646537568c5f3b",
-   "files": 280
+   "size": 7366841,
+   "sha256": "430d2f3f9ac16f6e06e8b4123de091ae4a848174a236abc2479c923f5b7c3901",
+   "files": 225
   },
   {
    "name": "hats_hk_predator.hwp",
-   "size": 2306256,
-   "sha256": "07df3a3b2c1e9c96367b732dedad42419c76a865357c6747d202a08b6f27ff92",
-   "files": 310
+   "size": 5617348,
+   "sha256": "e6520e29ec47923832d7b02934f98cb1f82f796a29bc4518247699efd2402241",
+   "files": 225
   },
   {
    "name": "hats_hk_pumpkin.hwp",
-   "size": 1772264,
-   "sha256": "1927a7c5e11fb874dfb7541df07ff960af4d29ced1397605128e10a904bc7c68",
-   "files": 280
+   "size": 7616115,
+   "sha256": "4ff59f20563d2d50f55170508988310d9a927264a8a04edf4aae4a6fa7dafb98",
+   "files": 225
   },
   {
    "name": "hats_hk_reaper.hwp",
-   "size": 2215657,
-   "sha256": "1b8ef9d6ddbec257f283250ea99425a6f394cabaf21ee95514ba02051d0ccb36",
-   "files": 290
+   "size": 7022453,
+   "sha256": "5369f4537f58f568b32bbb22672718a2e3172e5227a394f71d8cbc567a79c443",
+   "files": 225
   },
   {
    "name": "hats_hk_sadako.hwp",
-   "size": 2163033,
-   "sha256": "8cdb6a2b96a0ffddcbd37534aeca6b7704edef864995789560daa87dac3fcf76",
-   "files": 310
+   "size": 3247110,
+   "sha256": "c88596625ef18a10b3a61d4624e798f0058bc2dd79ba963974c0c540c02bbce9",
+   "files": 225
   },
   {
    "name": "hats_hk_spider.hwp",
-   "size": 3440772,
-   "sha256": "9732d475e2fcb8d9027cdd201c3bb65862817026bd35eb67012f401f66a7b2fd",
-   "files": 704
+   "size": 2099208,
+   "sha256": "d35aed80ca4f35384df13e7b8de37d4c538935f28bb3d74ed1873e3ea84dec7e",
+   "files": 225
   },
   {
    "name": "hats_hk_thing.hwp",
-   "size": 3024254,
-   "sha256": "54dc80b972ce46acf44354743c9875f3f17f40a86c696236891bbbb59513a908",
-   "files": 300
+   "size": 3860865,
+   "sha256": "a59251108eb0b0001d8b998aac8729aa4336e9c1849d12b536782835e5f4c9b5",
+   "files": 225
   },
   {
    "name": "hats_hk_vampire.hwp",
-   "size": 1974351,
-   "sha256": "29c7a281c3cabd4c9a1548efdde305fcba5b86f373175a4049635b1ed34db0cb",
-   "files": 280
+   "size": 2400133,
+   "sha256": "7c408e08aa8d936add5aa3203e9952844687b9534d2b2f94e8aa99e1b9b3a285",
+   "files": 225
   },
   {
    "name": "hats_hk_xeno.hwp",
-   "size": 1933956,
-   "sha256": "3131a64e445a8944b1e74fcc6c13df7f74eeb8fb47e3c730f775660764d9c3a0",
-   "files": 230
+   "size": 3607419,
+   "sha256": "8fc1726b6aab0bf1c799d02cc2ebad3fe34d126f5ec042c044a0175ea609218d",
+   "files": 225
   },
   {
    "name": "hats_hk_xenobite.hwp",
@@ -123,8 +123,8 @@
   },
   {
    "name": "hats_hl_spider.hwp",
-   "size": 256128,
-   "sha256": "c2e4b975e8327a9d8d647652d232c8acac1eeaa04a013dff5a5075eeaa782aad",
+   "size": 258888,
+   "sha256": "6252277f82e833d8efa634439bb83d0df833439567817fb374ec7a9997433fac",
    "files": 68
   },
   {
@@ -147,21 +147,21 @@
   },
   {
    "name": "hats_hw_freddy.hwp",
-   "size": 1640035,
-   "sha256": "cc8845539d7bd02975b263c3143038f50c3f2eeb50ebdf61bd066f4370c110f1",
-   "files": 30
+   "size": 1329149,
+   "sha256": "7c895adeb97ef8555f1014bf80d1c61381e4973845ee8b9edad13e10a501c666",
+   "files": 58
   },
   {
    "name": "hats_hw_ghostface.hwp",
-   "size": 1778288,
-   "sha256": "a6ba7151e7f8d24dcff07ab8bacbd9d39ed60c6b505cd744c86147776b378cb0",
+   "size": 1574096,
+   "sha256": "5435b945318d54f645df011acda3f8d2ecd166cfbebad572a61370250be4f085",
    "files": 58
   },
   {
    "name": "hats_hw_jason.hwp",
-   "size": 1224310,
-   "sha256": "a75d71b0541ec1ead0aec5fe1a16fa6bd5f083c92d21e24da2ed245fc430be3e",
-   "files": 30
+   "size": 1377427,
+   "sha256": "808ff5a115d50c33379467323e6786ac32039a130198828ef038568e10a04b6e",
+   "files": 58
   },
   {
    "name": "hats_hw_medusa.hwp",
@@ -171,20 +171,20 @@
   },
   {
    "name": "hats_hw_predator.hwp",
-   "size": 2354688,
-   "sha256": "d153a4d8cb5ed36f4357eb2155daf684f9d555b6ed1d0fab5e0511ff9a5b212a",
+   "size": 1900285,
+   "sha256": "45aef34219ca4bec394528ae8582c383791fecdae635f55c5a8d8fb3dd49f985",
    "files": 58
   },
   {
    "name": "hats_hw_pumpkin.hwp",
-   "size": 1333712,
-   "sha256": "48e7445f0f9bb8640e112cea252200d34ce61ae696df2ae24bbb53c55d73902e",
+   "size": 1560563,
+   "sha256": "5f1b1b1c55ad9ec2e75e1a2c3772b1c04ef994450bd6caa4e68ce6f2ede167a4",
    "files": 58
   },
   {
    "name": "hats_hw_reaper.hwp",
-   "size": 1948243,
-   "sha256": "f3d0128dec6b15a98f90e1668695324f42755b1e14a77644eca6d04ba5a32541",
+   "size": 1635794,
+   "sha256": "0e4c287ba974555aa289bc23ec05f026eee3e69eb94d48e4fba135873254fe96",
    "files": 58
   },
   {
@@ -195,8 +195,8 @@
   },
   {
    "name": "hats_hw_spider.hwp",
-   "size": 4047640,
-   "sha256": "bb843778ec9e0a0ba70568ecb8a43b92b871b42bcd3a5af701993a959511a2c9",
+   "size": 5902241,
+   "sha256": "3c7c82bfac5d7eab995a510bf2bfe28690a577ba234a393279dcffc165be10aa",
    "files": 114
   },
   {
@@ -207,8 +207,8 @@
   },
   {
    "name": "hats_hw_vampire.hwp",
-   "size": 1287087,
-   "sha256": "a0b43ae92cf854e035fc8e6d51f48eeccc33c48826d552b07e886bca55d50148",
+   "size": 798776,
+   "sha256": "5900fcc09e6e1d3f484fd97d4c418a0e5a59e525cb3c0b796c290a5e27e57a1b",
    "files": 58
   },
   {
