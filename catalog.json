@@ -1,5 +1,5 @@
 {
- "tag": "v14",
+ "tag": "v15",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -213,8 +213,8 @@
   },
   {
    "name": "hats_hw_weepingangel.hwp",
-   "size": 1937352,
-   "sha256": "f0edd55e1d757cc80799856edfb8ce4234d4a1d10bd8de029b3f4b2662297667",
+   "size": 2406479,
+   "sha256": "01bb737df22773e34cb2e11da88bf3e9acf2b834b1ea23f8ac2e1ae8acce4679",
    "files": 58
   },
   {
