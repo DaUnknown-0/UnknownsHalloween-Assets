@@ -1,5 +1,5 @@
 {
- "tag": "v18",
+ "tag": "v19",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -201,9 +201,9 @@
   },
   {
    "name": "hats_hw_thing.hwp",
-   "size": 4792817,
-   "sha256": "e34d22e911e38fe0225184d35d5063671ce73bed38da74405125a83a53958e3c",
-   "files": 59
+   "size": 1700447,
+   "sha256": "0a9eaf223da516c0444d1453f2d3057a6d025202c80185b111d5b39aa0677f25",
+   "files": 58
   },
   {
    "name": "hats_hw_vampire.hwp",
