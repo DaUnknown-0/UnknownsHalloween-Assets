@@ -1,5 +1,5 @@
 {
- "tag": "v19",
+ "tag": "v20",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -147,38 +147,38 @@
   },
   {
    "name": "hats_hw_freddy.hwp",
-   "size": 1329149,
-   "sha256": "7c895adeb97ef8555f1014bf80d1c61381e4973845ee8b9edad13e10a501c666",
+   "size": 1324299,
+   "sha256": "eb64bd717589a2999fe8e6038b452dac32efe5fd0a971fe711aa34523e707863",
    "files": 58
   },
   {
    "name": "hats_hw_ghostface.hwp",
-   "size": 1574096,
-   "sha256": "5435b945318d54f645df011acda3f8d2ecd166cfbebad572a61370250be4f085",
+   "size": 1592490,
+   "sha256": "809aa72b5a1053e409c28538d145d15ea56448bdc1923fa9c60d8946531494b9",
    "files": 58
   },
   {
    "name": "hats_hw_jason.hwp",
-   "size": 1377427,
-   "sha256": "808ff5a115d50c33379467323e6786ac32039a130198828ef038568e10a04b6e",
+   "size": 1344699,
+   "sha256": "df78958c4015f16a84a0ca5505abcb876036d38e5019d7b5b17419bc75a6d206",
    "files": 58
   },
   {
    "name": "hats_hw_medusa.hwp",
-   "size": 2660074,
-   "sha256": "4bf6075e23b2726375f84bedf35e14ba7a09b408e2b85c5731972d349797ac64",
+   "size": 2204747,
+   "sha256": "e61044478615f0f92769726bfd0616f1c792d02e6e298853f53db997591d6896",
    "files": 58
   },
   {
    "name": "hats_hw_predator.hwp",
-   "size": 1900285,
-   "sha256": "45aef34219ca4bec394528ae8582c383791fecdae635f55c5a8d8fb3dd49f985",
+   "size": 1899351,
+   "sha256": "ced424157f27abd5f1237279b028f83baef3ae5832e6b15279c5abfe729da288",
    "files": 58
   },
   {
    "name": "hats_hw_pumpkin.hwp",
-   "size": 1560563,
-   "sha256": "5f1b1b1c55ad9ec2e75e1a2c3772b1c04ef994450bd6caa4e68ce6f2ede167a4",
+   "size": 1481735,
+   "sha256": "468b5606f36befe276674faea2f2e24b4a90bf92eb02ffa1666459d67cfe35ae",
    "files": 58
   },
   {
@@ -189,8 +189,8 @@
   },
   {
    "name": "hats_hw_sadako.hwp",
-   "size": 2041586,
-   "sha256": "bd2e686c819e11bca036007473c90b24e18003e91204d6fded22595bb08d5196",
+   "size": 2000433,
+   "sha256": "91b9576adf026f084813cf7feab96ed8ed0f8764381319ba2fe17d93975e5802",
    "files": 58
   },
   {
@@ -207,20 +207,20 @@
   },
   {
    "name": "hats_hw_vampire.hwp",
-   "size": 798776,
-   "sha256": "5900fcc09e6e1d3f484fd97d4c418a0e5a59e525cb3c0b796c290a5e27e57a1b",
+   "size": 818020,
+   "sha256": "13026de278b420c3f6a955e47d60ee0d063934b25dcff57044711dc8855ed593",
    "files": 58
   },
   {
    "name": "hats_hw_weepingangel.hwp",
-   "size": 2406479,
-   "sha256": "01bb737df22773e34cb2e11da88bf3e9acf2b834b1ea23f8ac2e1ae8acce4679",
-   "files": 58
+   "size": 3150038,
+   "sha256": "6f1e216c80bf61496093da11b6cfaebc3e8e7dcdb200b02d52ec39b28c10ba40",
+   "files": 66
   },
   {
    "name": "hats_hw_xenomorph.hwp",
-   "size": 3863348,
-   "sha256": "fd4979ab4e22dc3b9ee0126120cda64f92e8f3a9666fdc9ad0c43dd18acee9aa",
+   "size": 3847643,
+   "sha256": "26c644b2e9387900d4d6a29da6e0bfa1e9f644d7e768f2fe6d308fc4ee4faaed",
    "files": 59
   },
   {
