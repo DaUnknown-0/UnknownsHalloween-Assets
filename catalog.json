@@ -1,5 +1,5 @@
 {
- "tag": "v25",
+ "tag": "v26",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -81,8 +81,8 @@
   },
   {
    "name": "hats_hk_reaper.hwp",
-   "size": 8109807,
-   "sha256": "8c8938465e296af7f2a99c84ae55ab8a15bfbc678584bee5ed55c37058596b6f",
+   "size": 8241118,
+   "sha256": "3c0b182f996de5353dc271ec7b336a6e263a224fc7bc3b06b8ce809f2b30cf0c",
    "files": 240
   },
   {
