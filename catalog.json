@@ -1,5 +1,5 @@
 {
- "tag": "v26",
+ "tag": "v27",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -27,9 +27,9 @@
   },
   {
    "name": "hats_hk_angel.hwp",
-   "size": 13654903,
-   "sha256": "d386acfe561f8b83d156ca0c8f79343ba4b17c028f75b5c5ff77bccf4a8e961c",
-   "files": 900
+   "size": 17866632,
+   "sha256": "5516ddc9363c6bebaae86004aa08e99c94ae8962b06c13ef22718cf63cecbce2",
+   "files": 960
   },
   {
    "name": "hats_hk_demon.hwp",
@@ -63,9 +63,9 @@
   },
   {
    "name": "hats_hk_medusa.hwp",
-   "size": 7366841,
-   "sha256": "430d2f3f9ac16f6e06e8b4123de091ae4a848174a236abc2479c923f5b7c3901",
-   "files": 225
+   "size": 2175189,
+   "sha256": "4bf62c0533889b89c181ee834d2d122269d2f1eedcf4b1de3f646537568c5f3b",
+   "files": 280
   },
   {
    "name": "hats_hk_predator.hwp",
@@ -75,15 +75,15 @@
   },
   {
    "name": "hats_hk_pumpkin.hwp",
-   "size": 10301208,
-   "sha256": "158baaedc1ce4b88236f87513fe380e32145b17e913a8606870b201a662fcfa4",
-   "files": 240
+   "size": 1772264,
+   "sha256": "1927a7c5e11fb874dfb7541df07ff960af4d29ced1397605128e10a904bc7c68",
+   "files": 280
   },
   {
    "name": "hats_hk_reaper.hwp",
-   "size": 8241118,
-   "sha256": "3c0b182f996de5353dc271ec7b336a6e263a224fc7bc3b06b8ce809f2b30cf0c",
-   "files": 240
+   "size": 2215657,
+   "sha256": "1b8ef9d6ddbec257f283250ea99425a6f394cabaf21ee95514ba02051d0ccb36",
+   "files": 290
   },
   {
    "name": "hats_hk_sadako.hwp",
@@ -93,21 +93,21 @@
   },
   {
    "name": "hats_hk_spider.hwp",
-   "size": 3218490,
-   "sha256": "9321ddc272d9e28b6dcebc491940f2bc8bfa474cc43779bbd7a163d54ba4245e",
-   "files": 240
+   "size": 3440772,
+   "sha256": "9732d475e2fcb8d9027cdd201c3bb65862817026bd35eb67012f401f66a7b2fd",
+   "files": 704
   },
   {
    "name": "hats_hk_thing.hwp",
-   "size": 4965397,
-   "sha256": "3e2d65019909706036b44fedccedd70c14560ce66af27db24d8df450b99a0597",
-   "files": 240
+   "size": 3024254,
+   "sha256": "54dc80b972ce46acf44354743c9875f3f17f40a86c696236891bbbb59513a908",
+   "files": 300
   },
   {
    "name": "hats_hk_vampire.hwp",
-   "size": 3048859,
-   "sha256": "39cf5c3b046ef8f9ca7ef876ac2bd0a1f00f3448ce0ae3a859a93b2443e02508",
-   "files": 240
+   "size": 1974351,
+   "sha256": "29c7a281c3cabd4c9a1548efdde305fcba5b86f373175a4049635b1ed34db0cb",
+   "files": 280
   },
   {
    "name": "hats_hk_xeno.hwp",
@@ -117,9 +117,9 @@
   },
   {
    "name": "hats_hk_xenobite.hwp",
-   "size": 5762831,
-   "sha256": "f70161e4586628a81bd6525237ba0e8e3c1abf33eb20c7e702f454999d3d891a",
-   "files": 240
+   "size": 1714325,
+   "sha256": "50e18081d1b1bdf4f1702bde7cad031a9c6c3b975090a61bbc6e5b71a3af3d88",
+   "files": 230
   },
   {
    "name": "hats_hl_spider.hwp",
