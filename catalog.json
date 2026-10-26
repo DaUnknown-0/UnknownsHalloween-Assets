@@ -1,5 +1,5 @@
 {
- "tag": "v21",
+ "tag": "v22",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -45,15 +45,15 @@
   },
   {
    "name": "hats_hk_ghostface.hwp",
-   "size": 3226788,
-   "sha256": "e3c036febbbb156a0ee9c14c39f4c9e8b397c587c200619f54556349c535830a",
-   "files": 240
+   "size": 2392826,
+   "sha256": "cb1a41fba5d32ce7e27ec7d8cb38bb1693539eca517469c1b2ca3bbb9a09f634",
+   "files": 225
   },
   {
    "name": "hats_hk_jason.hwp",
-   "size": 3916653,
-   "sha256": "fa1215ed70673fe143f0cc8e66b2d6a9ce84430c450ce0b973dccbcf92890212",
-   "files": 240
+   "size": 2905825,
+   "sha256": "42b38fd7cf3553ecf6533960b5657037277f39fa192a8ee63b704b068c35f19d",
+   "files": 225
   },
   {
    "name": "hats_hk_jasonlift.hwp",
