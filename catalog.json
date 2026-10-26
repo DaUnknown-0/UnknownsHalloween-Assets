@@ -1,5 +1,5 @@
 {
- "tag": "v22",
+ "tag": "v23",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -231,9 +231,9 @@
   },
   {
    "name": "villa_map.hwp",
-   "size": 22175874,
-   "sha256": "169df6b12e52020fa8d14d4e9b6fa928ed295204e61c8cff9ce367b1948df5a4",
-   "files": 110
+   "size": 22200893,
+   "sha256": "1fdf374651d44ef97db7197100fc4d4a4dfc384896a1b9b8f73fc37952105378",
+   "files": 111
   }
  ]
 }
