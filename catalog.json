@@ -1,22 +1,22 @@
 {
- "tag": "v28",
+ "tag": "v29",
  "files": [
   {
    "name": "candy_eject.hwp",
-   "size": 1180748,
-   "sha256": "d97adeddbd053621bd4d69a650034663ae0c381c1042cf6d58903c0be98745f5",
+   "size": 1517058,
+   "sha256": "b3e789af533afae4211d747c13f9711efc300164e7242229ab6f21340233bfa1",
    "files": 19
   },
   {
    "name": "cine_villa.hwp",
-   "size": 92829371,
-   "sha256": "078684d7b5f815a98db83e25fa69ac1a224d97f626355f08718613f8b7977931",
+   "size": 84827763,
+   "sha256": "fee99def26e0e4ba89f73250b1671ab27eae88e4e2a3fabce40a1ba619f8495e",
    "files": 1412
   },
   {
    "name": "graveyard_eject.hwp",
-   "size": 2808646,
-   "sha256": "67083543a98dfa022fcb9c1e4faa0e652d3088bd48a61f7e3009e57a7152dbe6",
+   "size": 5219008,
+   "sha256": "1f3fccabc9110d8545d4cda423f7c23055e99f7893b3248c85e1b7e979443893",
    "files": 28
   },
   {
@@ -140,10 +140,22 @@
    "files": 58
   },
   {
+   "name": "hats_hw_castiel.hwp",
+   "size": 3274849,
+   "sha256": "42f0106202d1e925ca7ce2e360466a61ba357a185f684d1279d071a09dc31bd6",
+   "files": 29
+  },
+  {
    "name": "hats_hw_corpse.hwp",
    "size": 116339,
    "sha256": "8b30994566ef86bf40aa2fee4e56f81b86e6ba08d89b4014ddc2413358cb1419",
    "files": 13
+  },
+  {
+   "name": "hats_hw_dean.hwp",
+   "size": 3082115,
+   "sha256": "5a1de40ef2963233e5acda4914c11c741ee8516c98d3d57fcfc9877d08af4539",
+   "files": 29
   },
   {
    "name": "hats_hw_freddy.hwp",
@@ -194,9 +206,15 @@
    "files": 58
   },
   {
+   "name": "hats_hw_sam.hwp",
+   "size": 3350162,
+   "sha256": "ad7afc2e205c09193e8bfd29a302d28a92b707c9a25111043dad7e2e261932c1",
+   "files": 29
+  },
+  {
    "name": "hats_hw_spider.hwp",
-   "size": 3936527,
-   "sha256": "3cee79b4ece1f569f1d3e7d5d674c0d14e33a61b2e8e9dfafed276ddb6514d16",
+   "size": 4047640,
+   "sha256": "bb843778ec9e0a0ba70568ecb8a43b92b871b42bcd3a5af701993a959511a2c9",
    "files": 114
   },
   {
@@ -225,15 +243,15 @@
   },
   {
    "name": "villa_eject.hwp",
-   "size": 2301157,
-   "sha256": "a40bd92279a4dd27e16a2b0db68683a1d135f227a6d0c0caacbceae2c1d60fa6",
+   "size": 3962135,
+   "sha256": "bbfcf687e6c3f242c038ef7bc79562cbef0510f440a13228a6586057e76a34ab",
    "files": 41
   },
   {
    "name": "villa_map.hwp",
-   "size": 22200893,
-   "sha256": "1fdf374651d44ef97db7197100fc4d4a4dfc384896a1b9b8f73fc37952105378",
-   "files": 111
+   "size": 23152274,
+   "sha256": "d74af7785eea69c8c19546518aa507572d90746bf4e26ecca6c889a8d1ee14b9",
+   "files": 127
   }
  ]
 }
