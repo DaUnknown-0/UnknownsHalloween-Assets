@@ -1,0 +1,24 @@
+{
+ "film": "intro_unknown",
+ "release": 1,
+ "files": [
+  {
+   "name": "film.seasonal.json",
+   "url": "https://github.com/DaUnknown-0/UnknownsHalloween-Assets/releases/download/film-1/film.seasonal.json",
+   "size": 465,
+   "sha256": "66b00be2a62fe40c1beb8d6dd0882c31e893c27847f16a549889d6fdceb75d32"
+  },
+  {
+   "name": "c5.json",
+   "url": "https://github.com/DaUnknown-0/UnknownsHalloween-Assets/releases/download/film-1/c5.json",
+   "size": 1149,
+   "sha256": "3a16155c5016085c148d25f0a987b0d59368d51083f29819c466da37bf1f41a6"
+  },
+  {
+   "name": "film_full.mp4",
+   "url": "https://github.com/DaUnknown-0/UnknownsHalloween-Assets/releases/download/film-1/film_full.mp4",
+   "size": 129931639,
+   "sha256": "10fc45a6ccf69a9f1591093b8a74c1d2bce71c8fd9bb1a116c9d773aa26271a6"
+  }
+ ]
+}
