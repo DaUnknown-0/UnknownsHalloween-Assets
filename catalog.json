@@ -1,5 +1,5 @@
 {
- "tag": "v31",
+ "tag": "v33",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -177,9 +177,9 @@
   },
   {
    "name": "hats_hw_medusa.hwp",
-   "size": 1202558,
-   "sha256": "afa8eada6ffe0f084ff8a1563b45aa425e0e05267830b53dfd060ae8bdae85bb",
-   "files": 58
+   "size": 3180496,
+   "sha256": "e512b7c0c0565bdb3633d39a31398ebd8b1e8b98a64d87e6d8c04dad17f649fc",
+   "files": 30
   },
   {
    "name": "hats_hw_predator.hwp",
@@ -249,8 +249,8 @@
   },
   {
    "name": "villa_map.hwp",
-   "size": 23361616,
-   "sha256": "d98939a9ad1935ba4249a116be9c0d391930df47bcb52c60d90036d98cc3eb14",
+   "size": 23425279,
+   "sha256": "5c6c8077c193c810f7638e16b1e7505acbd0b9d07dcffb8fe98c7076d844eb46",
    "files": 127
   }
  ]
