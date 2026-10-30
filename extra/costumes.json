@@ -1,0 +1,18 @@
+{
+ "format": 1,
+ "costumes": [
+  {
+   "key": "bat",
+   "name": "Halloween Bat",
+   "package": "extra_bat_c389c60a.hwp",
+   "size": 969088,
+   "sha256": "c389c60ab665c7857ba169928c17ace89b9c52e4b8b266feb8302f06b682dc51",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
+  }
+ ]
+}
