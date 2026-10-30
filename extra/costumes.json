@@ -2,11 +2,11 @@
  "format": 1,
  "costumes": [
   {
-   "key": "bat",
-   "name": "Halloween Bat",
-   "package": "extra_bat_51a4b363.hwp",
-   "size": 970183,
-   "sha256": "51a4b363dc5afc95d0b65401b59f44cfe9e377cf5973d0398f0eb4c604a960d8",
+   "key": "vampirebat",
+   "name": "Halloween Vampire Bat",
+   "package": "extra_vampirebat_1d6e2e7b.hwp",
+   "size": 970442,
+   "sha256": "1d6e2e7b176da28553d82b7d2de34fae7153fade0d90b6fd1eff4055c2c860af",
    "hidesBody": true,
    "hasAccent": true,
    "stillWalk": true,
