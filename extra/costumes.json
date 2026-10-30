@@ -13,6 +13,19 @@
    "walkFps": 12,
    "idleFps": 6,
    "walkIntro": 4
+  },
+  {
+   "key": "transformerjet",
+   "name": "Halloween Transformer Jet",
+   "package": "extra_transformerjet_42692d89.hwp",
+   "size": 790188,
+   "sha256": "42692d89e30a949cddb3e3be825d69e0bc7aa1a224e9fd550f06ce5ac3845a61",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
   }
  ]
 }
