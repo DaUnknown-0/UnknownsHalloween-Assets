@@ -26,6 +26,18 @@
    "walkFps": 12,
    "idleFps": 6,
    "walkIntro": 4
+  },
+  {
+   "key": "foxdemon",
+   "name": "Halloween Fox Demon",
+   "package": "extra_foxdemon_28efd9a5.hwp",
+   "size": 783170,
+   "sha256": "28efd9a59f23bba6f2f34b50d43d50c84967c5a68a45131be36a89d2d5fc3bed",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6
   }
  ]
 }
