@@ -38,6 +38,19 @@
    "stillWalk": true,
    "walkFps": 12,
    "idleFps": 6
+  },
+  {
+   "key": "bansheeveil",
+   "name": "Halloween Banshee Veil",
+   "package": "extra_bansheeveil_af5db7e6.hwp",
+   "size": 1222696,
+   "sha256": "af5db7e6eb959d5b3cbd31c868e9374d8e28245ab36429e9e5fe2d37c4355e82",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
   }
  ]
 }
