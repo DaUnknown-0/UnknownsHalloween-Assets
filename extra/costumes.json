@@ -51,6 +51,60 @@
    "walkFps": 12,
    "idleFps": 6,
    "walkIntro": 4
+  },
+  {
+   "key": "witch",
+   "name": "Halloween Witch",
+   "package": "extra_witch_e89e7eb1.hwp",
+   "size": 708467,
+   "sha256": "e89e7eb1eea83ade7a4f10a93395db078eefda3baab895e10228b7ea92df8bfd",
+   "hidesBody": true,
+   "hasAccent": true
+  },
+  {
+   "key": "mummy",
+   "name": "Halloween Mummy",
+   "package": "extra_mummy_a99c182e.hwp",
+   "size": 678024,
+   "sha256": "a99c182eb66145aa56f9b1310a422e75828f2640419bd4b9c0fc97fde8eaaa0a",
+   "hidesBody": true,
+   "hasAccent": true
+  },
+  {
+   "key": "zombie",
+   "name": "Halloween Zombie",
+   "package": "extra_zombie_64df46e7.hwp",
+   "size": 716354,
+   "sha256": "64df46e770b626fb022ba321877ac7f3eb9107ff2c8a3c58f10aeb954671e8c6",
+   "hidesBody": true,
+   "hasAccent": true
+  },
+  {
+   "key": "skeleton",
+   "name": "Halloween Skeleton",
+   "package": "extra_skeleton_94033207.hwp",
+   "size": 564918,
+   "sha256": "9403320732549bd060fb079ccd30b65996b51cc7b87909338c02b6e177256d32",
+   "hidesBody": true,
+   "hasAccent": true
+  },
+  {
+   "key": "plaguedoctor",
+   "name": "Halloween Plague Doctor",
+   "package": "extra_plaguedoctor_e3ab944a.hwp",
+   "size": 715771,
+   "sha256": "e3ab944aa13f9a89142206dd9b003c87b267c3fef98edcad475f32ea6664ce1f",
+   "hidesBody": true,
+   "hasAccent": true
+  },
+  {
+   "key": "sheetghost",
+   "name": "Halloween Sheet Ghost",
+   "package": "extra_sheetghost_89b79245.hwp",
+   "size": 604783,
+   "sha256": "89b792452640d80ea6c145ca2ce104d73add66c00d1eefed580007e461bcc0f9",
+   "hidesBody": true,
+   "hasAccent": true
   }
  ]
 }
