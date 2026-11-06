@@ -1,5 +1,5 @@
 {
- "tag": "v35",
+ "tag": "v36",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -141,8 +141,8 @@
   },
   {
    "name": "hats_hw_castiel.hwp",
-   "size": 3274849,
-   "sha256": "42f0106202d1e925ca7ce2e360466a61ba357a185f684d1279d071a09dc31bd6",
+   "size": 3736297,
+   "sha256": "6c7d61f7bbca7e6626a062529371d1266daa35053c9ae93211c895546c82b036",
    "files": 29
   },
   {
@@ -153,8 +153,8 @@
   },
   {
    "name": "hats_hw_dean.hwp",
-   "size": 3082115,
-   "sha256": "5a1de40ef2963233e5acda4914c11c741ee8516c98d3d57fcfc9877d08af4539",
+   "size": 3483040,
+   "sha256": "aa487c7b652a874837b7549589caae6cdc037de899404276661fa4d2cc69e3e7",
    "files": 29
   },
   {
@@ -207,8 +207,8 @@
   },
   {
    "name": "hats_hw_sam.hwp",
-   "size": 3350162,
-   "sha256": "ad7afc2e205c09193e8bfd29a302d28a92b707c9a25111043dad7e2e261932c1",
+   "size": 3806042,
+   "sha256": "082cfef0822c08f73d4516b831181a44a3031b91c5656ffab19465e666ab4261",
    "files": 29
   },
   {
