@@ -96,9 +96,9 @@
   {
    "key": "vampirebat",
    "name": "Halloween Vampire Bat",
-   "package": "extra_vampirebat_363d5e6f.hwp",
-   "size": 361547,
-   "sha256": "363d5e6fc50b2e7696caa8ce35c42e03796abd3eb2665de0eb2dc61857e94553",
+   "package": "extra_vampirebat_0a21d75a.hwp",
+   "size": 313785,
+   "sha256": "0a21d75a3c8e123f2827e9086e446b3a44002cc7dfa93195f5a26451c2160c6d",
    "hidesBody": true,
    "hasAccent": true,
    "stillWalk": true,
