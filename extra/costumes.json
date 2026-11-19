@@ -2,19 +2,6 @@
  "format": 1,
  "costumes": [
   {
-   "key": "vampirebat",
-   "name": "Halloween Vampire Bat",
-   "package": "extra_vampirebat_1d6e2e7b.hwp",
-   "size": 970442,
-   "sha256": "1d6e2e7b176da28553d82b7d2de34fae7153fade0d90b6fd1eff4055c2c860af",
-   "hidesBody": true,
-   "hasAccent": true,
-   "stillWalk": true,
-   "walkFps": 12,
-   "idleFps": 6,
-   "walkIntro": 4
-  },
-  {
    "key": "transformerjet",
    "name": "Halloween Transformer Jet",
    "package": "extra_transformerjet_42692d89.hwp",
@@ -105,6 +92,19 @@
    "sha256": "89b792452640d80ea6c145ca2ce104d73add66c00d1eefed580007e461bcc0f9",
    "hidesBody": true,
    "hasAccent": true
+  },
+  {
+   "key": "vampirebat",
+   "name": "Halloween Vampire Bat",
+   "package": "extra_vampirebat_363d5e6f.hwp",
+   "size": 361547,
+   "sha256": "363d5e6fc50b2e7696caa8ce35c42e03796abd3eb2665de0eb2dc61857e94553",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
   }
  ]
 }
