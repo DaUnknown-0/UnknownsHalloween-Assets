@@ -105,6 +105,58 @@
    "walkFps": 12,
    "idleFps": 6,
    "walkIntro": 4
+  },
+  {
+   "key": "dragonknight",
+   "name": "Halloween Dragon Knight",
+   "package": "extra_dragonknight_ff30d133.hwp",
+   "size": 2789009,
+   "sha256": "ff30d1334fb54e32cf97f62212444770ed150a4b825f7a353418d52f5bb43bba",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
+  },
+  {
+   "key": "emberdragon",
+   "name": "Halloween Ember Dragon",
+   "package": "extra_emberdragon_a5e1cd9a.hwp",
+   "size": 2925190,
+   "sha256": "a5e1cd9a13a3dc990462f071934371bf9130b7d5b10c64999e62d4c23b1a3f0b",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
+  },
+  {
+   "key": "ironhorndragon",
+   "name": "Halloween Ironhorn Dragon",
+   "package": "extra_ironhorndragon_12e7ae2f.hwp",
+   "size": 2690349,
+   "sha256": "12e7ae2f080fd6f895384e87c9ca7474f52ae36c018c4696a46a05df0f40ea2f",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
+  },
+  {
+   "key": "serpentdragon",
+   "name": "Halloween Serpent Dragon",
+   "package": "extra_serpentdragon_7d78a486.hwp",
+   "size": 2537314,
+   "sha256": "7d78a4861d8a32ddc78fe38385830dac8ab5924230177def4665d5672be62c81",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
   }
  ]
 }
