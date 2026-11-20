@@ -1,5 +1,5 @@
 {
- "tag": "v39",
+ "tag": "v40",
  "files": [
   {
    "name": "candy_eject.hwp",
@@ -141,8 +141,8 @@
   },
   {
    "name": "hats_hw_castiel.hwp",
-   "size": 3096338,
-   "sha256": "7c697e496706a339a4942325ec554cdf831b39f780e227d91c2c722136913952",
+   "size": 2220947,
+   "sha256": "aa1ddf2dfc792ac1b5ffc3cde7c2142ec894f667ea07e91dfcf500d22c99f580",
    "files": 30
   },
   {
@@ -153,8 +153,8 @@
   },
   {
    "name": "hats_hw_dean.hwp",
-   "size": 2958334,
-   "sha256": "54312dd129199d0651e404796275aff8dc9c400fa67c466c52a7667a37ad34ae",
+   "size": 2121063,
+   "sha256": "f801a1b29d49fa3f4e25498866841451917b793dc216ac243978b133c11fae4b",
    "files": 30
   },
   {
@@ -207,8 +207,8 @@
   },
   {
    "name": "hats_hw_sam.hwp",
-   "size": 3277183,
-   "sha256": "f633767ed6e7c214a3e501f0f31bf970096b490e422f7b87cfd310d5d998b998",
+   "size": 2387113,
+   "sha256": "c39b9edb2a5febf0ec49a7445ca490a0d039843bdd6b3caa3b6bb7aa71b4a13b",
    "files": 30
   },
   {
@@ -249,9 +249,9 @@
   },
   {
    "name": "villa_map.hwp",
-   "size": 31366846,
-   "sha256": "e5e18630930ab0693df8e19702695202d13d871d1e0b17374cd6a5733b02cd4c",
-   "files": 204
+   "size": 31393846,
+   "sha256": "66b5ec47d6cf21f616c81dd7cc894239b6644d418aaf09b555d6102a3f91b0d6",
+   "files": 203
   }
  ]
 }
