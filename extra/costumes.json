@@ -157,6 +157,58 @@
    "walkFps": 12,
    "idleFps": 6,
    "walkIntro": 4
+  },
+  {
+   "key": "hornedowl",
+   "name": "Halloween Horned Owl",
+   "package": "extra_hornedowl_6d767383.hwp",
+   "size": 1799371,
+   "sha256": "6d767383ba3d82211fdd6bbcb504736612f4116e81dc9adcf5e4adc9faf1c5e6",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
+  },
+  {
+   "key": "snowyowl",
+   "name": "Halloween Snowy Owl",
+   "package": "extra_snowyowl_190f9b10.hwp",
+   "size": 2005216,
+   "sha256": "190f9b10168eea40955b6fbc81beb0f2f3e94a431fd52f8f0e9884f6aa2c0c18",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
+  },
+  {
+   "key": "barnowl",
+   "name": "Halloween Barn Owl",
+   "package": "extra_barnowl_a3bf5aa1.hwp",
+   "size": 1664828,
+   "sha256": "a3bf5aa178e8b0537b20ed9db30b30f6ba967bdb640b68dd2978f32bb6295444",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
+  },
+  {
+   "key": "nightowl",
+   "name": "Halloween Night Owl",
+   "package": "extra_nightowl_68967fd5.hwp",
+   "size": 1861226,
+   "sha256": "68967fd5128a0a56b281a97915cacfdab23eae2c35d3219fa4352f1387117ca6",
+   "hidesBody": true,
+   "hasAccent": true,
+   "stillWalk": true,
+   "walkFps": 12,
+   "idleFps": 6,
+   "walkIntro": 4
   }
  ]
 }
