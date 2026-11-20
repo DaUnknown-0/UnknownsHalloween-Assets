@@ -117,7 +117,9 @@
    "stillWalk": true,
    "walkFps": 12,
    "idleFps": 6,
-   "walkIntro": 4
+   "walkIntro": 4,
+   "variantGroup": "Halloween Dragon",
+   "variantLabel": "Knight"
   },
   {
    "key": "emberdragon",
@@ -130,7 +132,9 @@
    "stillWalk": true,
    "walkFps": 12,
    "idleFps": 6,
-   "walkIntro": 4
+   "walkIntro": 4,
+   "variantGroup": "Halloween Dragon",
+   "variantLabel": "Ember"
   },
   {
    "key": "ironhorndragon",
@@ -143,7 +147,9 @@
    "stillWalk": true,
    "walkFps": 12,
    "idleFps": 6,
-   "walkIntro": 4
+   "walkIntro": 4,
+   "variantGroup": "Halloween Dragon",
+   "variantLabel": "Ironhorn"
   },
   {
    "key": "serpentdragon",
@@ -156,7 +162,9 @@
    "stillWalk": true,
    "walkFps": 12,
    "idleFps": 6,
-   "walkIntro": 4
+   "walkIntro": 4,
+   "variantGroup": "Halloween Dragon",
+   "variantLabel": "Serpent"
   },
   {
    "key": "hornedowl",
@@ -169,7 +177,9 @@
    "stillWalk": true,
    "walkFps": 12,
    "idleFps": 6,
-   "walkIntro": 4
+   "walkIntro": 4,
+   "variantGroup": "Halloween Owl",
+   "variantLabel": "Horned"
   },
   {
    "key": "snowyowl",
@@ -182,7 +192,9 @@
    "stillWalk": true,
    "walkFps": 12,
    "idleFps": 6,
-   "walkIntro": 4
+   "walkIntro": 4,
+   "variantGroup": "Halloween Owl",
+   "variantLabel": "Snowy"
   },
   {
    "key": "barnowl",
@@ -195,7 +207,9 @@
    "stillWalk": true,
    "walkFps": 12,
    "idleFps": 6,
-   "walkIntro": 4
+   "walkIntro": 4,
+   "variantGroup": "Halloween Owl",
+   "variantLabel": "Barn"
   },
   {
    "key": "nightowl",
@@ -208,7 +222,9 @@
    "stillWalk": true,
    "walkFps": 12,
    "idleFps": 6,
-   "walkIntro": 4
+   "walkIntro": 4,
+   "variantGroup": "Halloween Owl",
+   "variantLabel": "Night"
   }
  ]
 }
